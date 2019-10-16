@@ -1,0 +1,19 @@
+{
+  "name": "social-insights",
+  "version": "1.0.0",
+  "description": "Social Media Insight Utility",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node_modules/.bin/nodemon -e js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanmaybaranwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.4"
+  }
+}
