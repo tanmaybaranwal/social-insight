@@ -30,7 +30,7 @@
                             "pageViews": 0
                         },
                         "allPageViews": {
-                            "pageViews": 0
+                            "pageViews": 10
                         }
                     }
                 }
@@ -60,8 +60,7 @@
                             "pageViews": 0
                         },
                         "allPageViews": {
-                            "uniquePageViews": 0,
-                            "pageViews": 0
+                            "pageViews": 23
                         }
                     }
                 }
